@@ -1,0 +1,2 @@
+Name	Class	ClassVersion	SpaceName	Version	CreationDate	Comment
+SalePrice_Regression_2Degree_45bin_60Coff	Kxen.Regression	3	SalePrice_Regression_2Degree_45bin_60Coff.txt	1	2022-04-30 23:07:28	

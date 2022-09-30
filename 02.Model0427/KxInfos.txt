@@ -1,0 +1,11 @@
+Name	Version	InfoName	InfoType	InfoStorage	InfoValue
+SalePrice_Regression_2Degree_30bin_5Coff_CleanData.txt	1	KI		string	0.9708
+SalePrice_Regression_2Degree_30bin_5Coff_CleanData.txt	1	KR		string	0.9924
+SalePrice_Regression_2Degree_30bin_5Coff_CleanData.txt	1	ToolName		string	PA
+SalePrice_Regression_2Degree_30bin_5Coff_CleanData.txt	1	ToolVersion		string	3.3.10
+SalePrice_Regression_2Degree_30bin_5Coff_CleanData.txt	1	VersionType		string	elaboration
+SalePrice_Regression_2Degree_20bin_6Coff_CleanData.txt	1	KI		string	0.9681
+SalePrice_Regression_2Degree_20bin_6Coff_CleanData.txt	1	KR		string	0.9931
+SalePrice_Regression_2Degree_20bin_6Coff_CleanData.txt	1	ToolName		string	PA
+SalePrice_Regression_2Degree_20bin_6Coff_CleanData.txt	1	ToolVersion		string	3.3.10
+SalePrice_Regression_2Degree_20bin_6Coff_CleanData.txt	1	VersionType		string	elaboration

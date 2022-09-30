@@ -1,0 +1,6 @@
+Name	Version	InfoName	InfoType	InfoStorage	InfoValue
+SalePrice_Regression_2Degree_25bin_55Coff	1	KI		string	0.9701
+SalePrice_Regression_2Degree_25bin_55Coff	1	KR		string	0.9923
+SalePrice_Regression_2Degree_25bin_55Coff	1	ToolName		string	PA
+SalePrice_Regression_2Degree_25bin_55Coff	1	ToolVersion		string	3.3.10
+SalePrice_Regression_2Degree_25bin_55Coff	1	VersionType		string	elaboration
